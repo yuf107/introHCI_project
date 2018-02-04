@@ -1,8 +1,6 @@
-# introHCI_project
+node-helloworld
+===============
 
-Class project for Cogs 120A.
+Hello world example for Node lab
 
-Members:
-Yu Feng
-Youli Pan
-Gendarme Docena
+by Michael Bernstein
