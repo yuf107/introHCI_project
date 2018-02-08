@@ -1,6 +1,4 @@
-node-helloworld
-===============
+lab4
+====
 
-Hello world example for Node lab
-
-by Michael Bernstein
+Lab 4: Programming with Javascript
